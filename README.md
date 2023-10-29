@@ -1,4 +1,4 @@
-# Simple_Calculator_UsIng_Python_GUI
+# Simple_Desktop_Calculator_UsIng_Python_GUI
 
 project description:
      > Nothing complicated,it's a simple calculator that performs basic arithmetic operations.
